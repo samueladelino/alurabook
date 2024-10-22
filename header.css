@@ -28,3 +28,43 @@
 </header>.container__imagem {
     padding: 1em;
 }
+/* código omitido */
+
+.lista-menu {
+    display: none;
+}
+/* código omitido */
+
+.lista-menu {
+    display: none;
+}
+
+.container__botao:checked ~ .lista-menu {
+    display: block;
+}/* código omitido */
+
+.cabecalho {
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+  }
+  
+  /* código omitido */
+  
+  .lista-menu {
+      display: none;
+      position: absolute;
+  }
+  
+  /* código omitido */
+  /* código omitido */
+
+.lista-menu {
+    display: none;
+    position: absolute;
+    top:100%;
+}
+
+/* código omitido */
